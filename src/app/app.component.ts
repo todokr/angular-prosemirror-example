@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-prose';
+  content = `
+# h1
+## h2
+- item1
+- item2
+- item3`;
 }
